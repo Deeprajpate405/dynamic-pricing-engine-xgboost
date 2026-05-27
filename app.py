@@ -525,4 +525,4 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# to run  -- python -m streamlit run app_1.py
+# to run  -- python -m streamlit run app.py
